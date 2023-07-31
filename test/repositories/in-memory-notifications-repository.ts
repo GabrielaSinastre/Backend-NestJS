@@ -11,3 +11,4 @@ export class InMemoryNotificationsRepository
     this.notifications.push(notification);
   }
 }
+console.log('a');
